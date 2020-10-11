@@ -1,2 +1,2 @@
 # Linux_failover_gateway
-xyz
+This script helps to switch automatically default gateway under linux distributions.
